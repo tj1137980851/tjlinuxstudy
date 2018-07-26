@@ -1,1 +1,3 @@
-print("haha this is a funny demo")
+class Student:
+    def study():
+        print("热爱学习")
